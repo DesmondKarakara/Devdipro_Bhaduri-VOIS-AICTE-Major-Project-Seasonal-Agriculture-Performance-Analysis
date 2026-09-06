@@ -1,6 +1,6 @@
 # 🌾 Seasonal Agriculture Performance Analysis
 
-![Banner](images/banner_placeholder.png) *(Optional: Add a header image)*
+*(Optional: Add a header image)*
 
 Welcome to the comprehensive Exploratory Data Analysis (EDA) of seasonal agricultural performance. This repository analyzes the interplay between seasons, crop types, resource consumption, and economic viability to uncover actionable insights for better agricultural planning.
 
@@ -58,4 +58,4 @@ Below are the visual findings derived from the dataset. Each image is "marked" w
 *   **Focus on Volume and Cost Control:** Since environmental factors do not drive profit, wealth is created solely by maximizing **Production Tonnes** to increase **Revenue**, while aggressively managing **Total Costs**.
 
 ---
-**Data Source:** [Devdipro_Bhaduri-VOIS-AICTE-Major-Project-Seasonal-Agriculture-Performance-Analysis](https://github.com/DesmondKarakara/Devdipro_Bhaduri-VOIS-AICTE-Major-Project-Seasonal-Agriculture-Performance-Analysis)
+**Data Source:** [Devdipro_Bhaduri-VOIS-AICTE-Major-Project-Seasonal-Agriculture-Performance-Analysis](https://github.com/DesmondKarakara/Devdipro_Bhaduri-VOIS-AICTE-Major-Project-Seasonal-Agriculture-Performance-Analysis/blob/main/major_project.ipynb)
