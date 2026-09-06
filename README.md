@@ -1,6 +1,5 @@
 # 🌾 Seasonal Agriculture Performance Analysis
 
-*(Optional: Add a header image)*
 
 Welcome to the comprehensive Exploratory Data Analysis (EDA) of seasonal agricultural performance. This repository analyzes the interplay between seasons, crop types, resource consumption, and economic viability to uncover actionable insights for better agricultural planning.
 
